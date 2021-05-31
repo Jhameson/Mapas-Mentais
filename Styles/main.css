@@ -59,22 +59,17 @@ li a:hover:not(.active) {
 .iframe-map{
     box-shadow: 0px 8px 12px 7px rgba(0,0,0,0.84);
     width: 80%;
-    height: 500px;
+    height: 550px;
     border-radius: 1%;
 }
 
-footer{
-    height: 100px;
-    background-color: #fff;
-    box-shadow: 0px -5px 12px 1px rgba(0,0,0,0.84);
-}
 
 .titles-index{
     flex-direction: column;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 200px;
+    margin-top: 220px;
 }
 
 .titles-index a{
